@@ -1,7 +1,53 @@
 #Project Description
+
 This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
 
 #Tech Stack
+
 Frontend: HTML, CSS, JavaScript (React or similar framework)
 Version Control: Git and GitHub
 Design Tools: Figma for UI/UX design
+
+
+#UI/UX Design Planning
+
+#Design Goals
+
+Create an intuitive and smooth booking flow
+
+Maintain visual and functional consistency
+
+Ensure fast loading and high performance
+
+Prioritize mobile responsiveness
+
+#Key Features
+
+Property search and filtering
+
+Detailed property view with booking options
+
+Secure checkout process
+
+User authentication (login/signup)
+
+#Primary Pages
+
+Page	                      Description
+
+Property Listing View	  -    Grid display of properties with filters (location, price, type)
+
+Listing Detailed View	  -    Shows detailed info about a property (images, host, amenities, price, etc.)
+
+Simple Checkout View	  -    Booking confirmation and payment page with summary and secure payment form
+
+
+#Importance of a User-Friendly Design
+
+Reduces friction in user journey
+
+Enhances conversion rates
+
+Improves customer satisfaction
+
+Encourages repeat users and trust
