@@ -12,40 +12,50 @@ Design Tools: Figma for UI/UX design
 #UI/UX Design Planning
 
 #Design Goals
-
 Create an intuitive and smooth booking flow
-
 Maintain visual and functional consistency
-
 Ensure fast loading and high performance
-
 Prioritize mobile responsiveness
 
 #Key Features
-
 Property search and filtering
-
 Detailed property view with booking options
-
 Secure checkout process
-
 User authentication (login/signup)
 
 #Primary Pages
-
 Property Listing View	  -    Grid display of properties with filters (location, price, type)
-
 Listing Detailed View	  -    Shows detailed info about a property (images, host, amenities, price, etc.)
-
 Simple Checkout View	  -    Booking confirmation and payment page with summary and secure payment form
 
 
 #Importance of a User-Friendly Design
-
 Reduces friction in user journey
-
 Enhances conversion rates
-
 Improves customer satisfaction
-
 Encourages repeat users and trust
+
+
+#Color Styles
+Primary: #FF5A5F
+Secondary: #008489
+Background: #FFFFFF
+Text: #222222
+Secondary Text: #717171
+
+Typography
+Primary Font: Circular
+Font Weight: Medium (500)
+Font Size: 16px
+Headings: Circular
+Font Weight: Bold (700)
+Font Size: 24px–32px
+Secondary Text: Circular
+Font Weight: Book (400)
+Font Size: 14px
+
+#Why Identifying Design Properties Matters
+Ensures consistent implementation of design
+Helps developers map UI to code accurately
+Reduces miscommunication between designers and developers
+Helps in maintaining brand identity
