@@ -1,3 +1,5 @@
+##PRO FRONTEND
+
 #Project Description
 
 This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
@@ -154,6 +156,11 @@ Responsive by default (mobile-first)
 
 Styled consistently per Figma specs
 
+##PRO BACKEND
+
+#Project Overview
+
+The Airbnb Clone Project is a full-stack application built to emulate the core functionality of Airbnb. It allows users to register, list properties, make bookings, and leave reviews. The project emphasizes backend development, database design, API security, and deployment using CI/CD pipelines. It is an ideal environment for gaining real-world, collaborative software development experience.
 
 #Team Roles
 
