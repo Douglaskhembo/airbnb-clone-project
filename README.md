@@ -33,8 +33,6 @@ User authentication (login/signup)
 
 #Primary Pages
 
-Page	                      Description
-
 Property Listing View	  -    Grid display of properties with filters (location, price, type)
 
 Listing Detailed View	  -    Shows detailed info about a property (images, host, amenities, price, etc.)
